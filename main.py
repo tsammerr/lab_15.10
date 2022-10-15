@@ -9,3 +9,5 @@ try:
             else:
                 print('*', end=' ')
         print()
+except Exception as ex:
+    print(ex)
