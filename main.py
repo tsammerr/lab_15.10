@@ -1,5 +1,5 @@
-x = int(input('i->'))
-y = int(input('j->'))
+x = int(input('height size-> '))
+y = int(input('width size-> '))
 
 for i in range(x):
     for j in range(y):
